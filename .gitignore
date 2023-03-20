@@ -26,6 +26,7 @@ build/_vendor/pkg
 /build/_workspace/
 /build/cache/
 /build/bin/
+/build/release.tar.gz
 /geth*.zip
 
 # travis
